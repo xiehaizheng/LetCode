@@ -1,0 +1,15 @@
+1.git config --global user.name "xiehaizheng"
+git config --global user.email "1076741748@qq.com"
+
+2.通过git init命令把这个目录变成Git可以管理的仓库
+$ git init
+$ git add xxxx.txt
+$ git commit -m "改动注释"
+3. push an existing repository from the command line
+git remote add origin https://github.com/xiehaizheng/LetCode.git
+git push -u origin master
+
+4.以后做了更改
+$ git add xxxx.txt
+$ git commit -m "wrote a readme file"
+$ git push origin master
