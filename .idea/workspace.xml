@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed850c43-6f4a-49c5-bebc-3ed6154ed343" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/src/Array/FindDisappearedNumbers448.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy/src/String/IsValid20.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/easy/Array/SumTwoNum001.class" afterPath="$PROJECT_DIR$/out/production/easy/Array/SumTwoNum001.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/easy/Array/FindDisappearedNumbers448.class" afterPath="$PROJECT_DIR$/out/production/easy/Array/FindDisappearedNumbers448.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindDisappearedNumbers448.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/src/Array/FindDisappearedNumbers448.java">
+      <file leaf-file-name="FindUnsortedSubarray581.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/src/Array/FindUnsortedSubarray581.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="451">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsValid20.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/src/String/IsValid20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +68,8 @@
         <option value="$PROJECT_DIR$/easy/src/Array/MoveZeroes.java" />
         <option value="$PROJECT_DIR$/easy/src/Array/MoveZeroes283.java" />
         <option value="$PROJECT_DIR$/easy/src/Array/FindDisappearedNumbers448.java" />
+        <option value="$PROJECT_DIR$/easy/src/Array/FindUnsortedSubarray581.java" />
+        <option value="$PROJECT_DIR$/easy/src/String/IsValid20.java" />
       </list>
     </option>
   </component>
@@ -85,8 +99,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -142,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDisappearedNumbers448">
+  <component name="RunManager" selected="Application.IsValid20">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -150,14 +164,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BestTimeForTradeStocks121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindDisappearedNumbers448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Array.BestTimeForTradeStocks121" />
+      <option name="MAIN_CLASS_NAME" value="Array.FindDisappearedNumbers448" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -169,14 +183,33 @@
       <module name="easy" />
       <envs />
     </configuration>
-    <configuration name="FindDisappearedNumbers448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindUnsortedSubarray581" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Array.FindDisappearedNumbers448" />
+      <option name="MAIN_CLASS_NAME" value="Array.FindUnsortedSubarray581" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="easy" />
+      <envs />
+    </configuration>
+    <configuration name="IsValid20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="String.IsValid20" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -215,25 +248,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Array.MoveZeroes283" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="easy" />
-      <envs />
-    </configuration>
-    <configuration name="SumTwoNum001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Array.SumTwoNum001" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -320,19 +334,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BestTimeForTradeStocks121" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SumTwoNum001" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MajorityElement169" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MoveZeroes283" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FindDisappearedNumbers448" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MajorityElement169" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MoveZeroes283" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindDisappearedNumbers448" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindUnsortedSubarray581" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IsValid20" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FindDisappearedNumbers448" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MoveZeroes283" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MajorityElement169" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SumTwoNum001" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BestTimeForTradeStocks121" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IsValid20" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FindUnsortedSubarray581" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindDisappearedNumbers448" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MoveZeroes283" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MajorityElement169" />
       </list>
     </recent_temporary>
   </component>
@@ -359,11 +373,13 @@
       <workItem from="1588641898758" duration="5408000" />
       <workItem from="1588738775332" duration="4713000" />
       <workItem from="1588817397973" duration="5381000" />
+      <workItem from="1588901431200" duration="4117000" />
+      <workItem from="1589010817110" duration="4341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36939000" />
+    <option name="totallyTimeSpent" value="45397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -408,6 +424,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/easy/src/Array/FindUnsortedSubarray581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/Array/FindDisappearedNumbers448.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/easy/src/Array/MoveZeroes283.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -568,8 +600,26 @@
     <entry file="file://$PROJECT_DIR$/easy/src/Array/FindDisappearedNumbers448.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/Array/FindUnsortedSubarray581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/src/String/IsValid20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
