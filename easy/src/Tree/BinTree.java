@@ -68,12 +68,20 @@ public class BinTree {
         System.out.print(obj + " ");
     }
 
-    private Object getData() {
+    public Object getData() {
         return data;
     }
 
-    private BinTree getRoot() {
+    public BinTree getRoot() {
         return root;
+    }
+
+    public BinTree getlChild() {
+        return lChild;
+    }
+
+    public BinTree getrChild() {
+        return rChild;
     }
 
     public static void main(String[] args) {
