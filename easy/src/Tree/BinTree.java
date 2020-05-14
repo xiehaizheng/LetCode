@@ -84,6 +84,14 @@ public class BinTree {
         return rChild;
     }
 
+    public void setlChild(BinTree lChild) {
+        this.lChild = lChild;
+    }
+
+    public void setrChild(BinTree rChild) {
+        this.rChild = rChild;
+    }
+
     public static void main(String[] args) {
         Object[] objs = {0, 1, 2, 3, 4, 5, 6, 7};
         BinTree binTree = new BinTree();
