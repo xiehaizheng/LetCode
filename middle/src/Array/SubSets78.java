@@ -22,7 +22,7 @@ public class SubSets78 {
     //方法一：递归
     public static List<List<Integer>> subSets(int[] nums){
         List<List<Integer>> output = new ArrayList<>();
-        output.add(new ArrayList<Integer>());
+        output.add(new ArrayList<Integer>());//加入一个空的数组[]
         for (int num : nums) {
             List<List<Integer>> newSubsets = new ArrayList<>();
             for (List<Integer> curr : output) {
