@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed850c43-6f4a-49c5-bebc-3ed6154ed343" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/middle/src/Array/RotateImage48.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/middle/src/字典树前缀树/Trie208.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/middle/src/字典树前缀树/TrieTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,12 +19,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RotateImage48.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateImage48.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle/src/Array/RotateImage48.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="39">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trie208.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/middle/src/字典树前缀树/Trie208.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="52" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrieTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle/src/字典树前缀树/TrieTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +121,9 @@
         <option value="$PROJECT_DIR$/middle/src/Tree/FlattenTree114.java" />
         <option value="$PROJECT_DIR$/middle/src/Array/CombinationSum39.java" />
         <option value="$PROJECT_DIR$/middle/src/Array/RotateImage48.java" />
+        <option value="$PROJECT_DIR$/middle/src/字典树前缀树/Trie.java" />
+        <option value="$PROJECT_DIR$/middle/src/字典树前缀树/TrieTree.java" />
+        <option value="$PROJECT_DIR$/middle/src/字典树前缀树/Trie208.java" />
       </list>
     </option>
   </component>
@@ -124,9 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +178,13 @@
               <item name="LetCode" type="462c0819:PsiDirectoryNode" />
               <item name="middle" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="字典树前缀树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -185,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateImage48">
+  <component name="RunManager" selected="Application.Trie208">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -250,14 +279,14 @@
       <module name="middle" />
       <envs />
     </configuration>
-    <configuration name="GenerateParenthesis22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RotateImage48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="String.GenerateParenthesis22" />
+      <option name="MAIN_CLASS_NAME" value="Array.RotateImage48" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -269,14 +298,14 @@
       <module name="middle" />
       <envs />
     </configuration>
-    <configuration name="RotateImage48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Trie208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="字典树前缀树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Array.RotateImage48" />
+      <option name="MAIN_CLASS_NAME" value="字典树前缀树.Trie208" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -363,19 +392,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GenerateParenthesis22" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CountBits338" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FlattenTree114" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CombinationSum39" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RotateImage48" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CountBits338" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FlattenTree114" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CombinationSum39" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RotateImage48" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Trie208" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RotateImage48" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CombinationSum39" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FlattenTree114" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CountBits338" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GenerateParenthesis22" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Trie208" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RotateImage48" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CombinationSum39" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FlattenTree114" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CountBits338" />
       </list>
     </recent_temporary>
   </component>
@@ -438,11 +467,12 @@
       <workItem from="1591189004223" duration="2595000" />
       <workItem from="1591431091008" duration="827000" />
       <workItem from="1591458163542" duration="1065000" />
+      <workItem from="1591573302932" duration="6850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146735000" />
+    <option name="totallyTimeSpent" value="153585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,8 +499,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18003026" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229954" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -482,7 +513,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,12 +562,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/middle/src/Array/RotateImage48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/middle/src/Array/CombinationSum39.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -555,7 +593,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -664,15 +702,36 @@
         <state relative-caret-position="702">
           <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/middle/src/Array/RotateImage48.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="39">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/src/字典树前缀树/TrieTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/src/字典树前缀树/Trie208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="52" selection-end-column="28" />
           <folding />
         </state>
       </provider>
